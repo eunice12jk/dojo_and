@@ -14,5 +14,6 @@ class TestCreateRoom(unittest.TestCase):
     def test_office_instance(self):
         Blue = Office('Blue')
         assertIsInstance((type(Blue)), Office)
+
         
     
