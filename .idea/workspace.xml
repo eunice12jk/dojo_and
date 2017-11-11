@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ca265d8-86fe-4bf4-8659-a3f25977c15b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/dojo.py" afterPath="$PROJECT_DIR$/Dojo/dojo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/person/Person.py" afterPath="$PROJECT_DIR$/Dojo/person/Person.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/person/Staff.py" afterPath="$PROJECT_DIR$/Dojo/person/Staff.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/room/Living_space.py" afterPath="$PROJECT_DIR$/Dojo/room/Living_space.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/room/Office.py" afterPath="$PROJECT_DIR$/Dojo/room/Office.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dojo/room/Room.py" afterPath="$PROJECT_DIR$/Dojo/room/Room.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dojo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dojo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dojo/dojo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -46,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Dojo/room/Living_space.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Dojo/room/Office.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,18 +83,21 @@
         <entry file="file://$PROJECT_DIR$/Dojo/person/Staff.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Person.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dojo/person/Person.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="342">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <marker date="1510395269867" expanded="true" signature="470:629" ph="..." />
+                <marker date="1510395269867" expanded="true" signature="562:629" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,8 +116,8 @@
         <option value="$PROJECT_DIR$/Dojo/room/Room.py" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/Dojo/person/Staff.py" />
-        <option value="$PROJECT_DIR$/Dojo/person/Person.py" />
         <option value="$PROJECT_DIR$/Dojo/dojo.py" />
+        <option value="$PROJECT_DIR$/Dojo/person/Person.py" />
       </list>
     </option>
   </component>
@@ -281,7 +279,7 @@
     <entry file="file://$PROJECT_DIR$/Dojo/room/Office.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -289,7 +287,7 @@
     <entry file="file://$PROJECT_DIR$/Dojo/room/Living_space.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -307,7 +305,7 @@
     <entry file="file://$PROJECT_DIR$/Dojo/person/Staff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -322,20 +320,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dojo/person/Person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dojo/dojo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dojo/person/Person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <marker date="1510395269867" expanded="true" signature="470:629" ph="..." />
+            <marker date="1510395269867" expanded="true" signature="562:629" ph="..." />
           </folding>
         </state>
       </provider>
