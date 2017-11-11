@@ -1,3 +1,4 @@
+
 class Person(object):
     '''deines person in Dojo'''
     person_count = 0
