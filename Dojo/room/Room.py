@@ -20,5 +20,22 @@ class Room(object):
         if room_type == "office":
             return "An office called {} has been successfully created!".format(
                 self.room_name)
-                
+
+
+    def room_name_list(self):
+        list_of_rooms = []
+        list_of_rooms.append(Room.room_name)
+        return list_of_rooms
+
+
+class Office(Room):
+    def __init__(self, room_name, room_type=None):
+        super(Office, self).__init__(room_name, room_type=None)
+        self.type = "office"
+
+
+class Living_Space(Room):
+    def __init__(self, room_name):
+        super(Living_Space, self).__init__(room_name)
+        self.type = "living_space"
 

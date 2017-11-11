@@ -11,7 +11,10 @@ class Person(object):
     def Name(self):
         '''defines a name for person'''
         return "{} {}".format(self.first_name, self.last_name)
-    
-juma = Person("Juma", "Nater")
-print(juma.Name())
-print(juma.email)
+
+
+class Staff(Person):
+    '''staff class for the staff employed'''
+    def __init__(self, first_name, last_name):
+        super(Staff, self).__init__(first_name, last_name)
+       
