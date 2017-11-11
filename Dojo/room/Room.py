@@ -11,7 +11,6 @@ class Room(object):
         self.room_type = room_type
 
 
-
     def print_room(self, room_name):
         room_list = []
         room_list.append(room_name)
@@ -21,6 +20,7 @@ class Room(object):
         if room_type == "office":
             return "An office called {} has been successfully created!".format(
                 self.room_name)
+        
         
             
         

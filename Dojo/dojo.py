@@ -1,9 +1,7 @@
+"""
+	Usage: 
+			dojo add_person <first_name> <last_name> <position> [<wants_accommodation>]
+			dojo create_room <room_type> <room_name>...
+			dojo print_room <room>
 
-def start():
-		arguments = docopt(__doc__)
-		"""Creating an instance of DOJO"""
-
-
-		create_room=arguments.get('create_room')
-		add_person=arguments.get('add_person')
-        print_room=arguments.get('print_room')
+"""
